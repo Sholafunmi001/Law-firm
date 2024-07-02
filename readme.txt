@@ -1,8 +1,21 @@
-Thank you for using our template!
+# Law Firm Website
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+This is my first frontend project. It showcases the services, team members, and contact information of a law firm.
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+## Description
+
+The Law Firm Website is designed to provide a professional online presence for a law firm. It includes sections for the firm's services, team members, and contact information.
+
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Sholafunmi001/Law-firm.git
